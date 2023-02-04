@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">BilibiliUploadCover</h3>
+  <h3 align="center">BilibiliCoverUploader</h3>
 
   <p align="center">
     基于PHP的哔哩哔哩上传动态封面网站，可以用此上传WEBP格式的动态封面，支持Cookie登录、Base64图片上传等功能。
@@ -8,11 +8,11 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/JonyanDunh/BilibiliUploadCover?color=dark-green) ![Forks](https://img.shields.io/github/forks/JonyanDunh/BilibiliUploadCover?style=social) ![Stargazers](https://img.shields.io/github/stars/JonyanDunh/BilibiliUploadCover?style=social) ![Issues](https://img.shields.io/github/issues/JonyanDunh/BilibiliUploadCover) ![License](https://img.shields.io/github/license/JonyanDunh/BilibiliUploadCover) 
+![Contributors](https://img.shields.io/github/contributors/JonyanDunh/BilibiliCoverUploader?color=dark-green) ![Forks](https://img.shields.io/github/forks/JonyanDunh/BilibiliCoverUploader?style=social) ![Stargazers](https://img.shields.io/github/stars/JonyanDunh/BilibiliCoverUploader?style=social) ![Issues](https://img.shields.io/github/issues/JonyanDunh/BilibiliCoverUploader) ![License](https://img.shields.io/github/license/JonyanDunh/BilibiliCoverUploader) 
 
 ## 项目截图
 
-![preview-image.png](https://github.com/JonyanDunh/BilibiliUploadCover/blob/main/preview-image.png?raw=true)
+![preview-image.png](https://github.com/JonyanDunh/BilibiliCoverUploader/blob/main/preview-image.png?raw=true)
 
 ## 项目介绍
 
