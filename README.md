@@ -12,7 +12,7 @@
 
 ## 项目截图
 
-![preview-image.png](https://github.com/JonyanDunh/BilibiliCoverUploader/blob/main/preview-image.png?raw=true)
+![preview-image.png](https://github.com/JonyanDunh/BilibiliDynamicCover/blob/main/preview-image.png?raw=true)
 
 ## 项目介绍
 
